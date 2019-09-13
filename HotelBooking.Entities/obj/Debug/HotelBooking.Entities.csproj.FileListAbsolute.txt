@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\HotelBooking.Entities.dll.config
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\HotelBooking.Entities.dll
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\HotelBooking.Entities.pdb
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\obj\Debug\HotelBooking.Entities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\obj\Debug\HotelBooking.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\obj\Debug\HotelBooking.Entities.dll
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\obj\Debug\HotelBooking.Entities.pdb
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\obj\Debug\HotelBooking.Entities.csproj.CopyComplete
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\source\repos\HotelBooking\HotelBooking.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
